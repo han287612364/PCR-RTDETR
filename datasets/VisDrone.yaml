@@ -1,0 +1,7 @@
+train: F:\RTDETR-2\datasets\VisDrone2019\VisDrone2019-DET-train\images
+val: F:\RTDETR-2\datasets\VisDrone2019\VisDrone2019-DET-val\images
+test: F:\RTDETR-2\datasets\VisDrone2019\VisDrone2019-DET-test-dev\images
+
+
+nc: 10  # number of classes
+names: ['pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']
